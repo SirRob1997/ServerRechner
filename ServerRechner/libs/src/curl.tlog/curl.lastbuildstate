@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+LIB Release|Win32|C:\Users\User\Documents\Visual Studio 2015\Projects\ServerRechner\ServerRechner\curl-7.51.0\curl-7.51.0\projects\Windows\VC11\|
